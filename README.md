@@ -1,2 +1,9 @@
 # bioinfo_exercise_MD
-Test repo
+
+## Purpose
+
+This is an exrecise repository for **bioinformatics** at WChem in 2026.
+
+## Author
+
+Michał Denkiewicz
