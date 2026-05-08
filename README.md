@@ -1,4 +1,4 @@
-# bioinfo_exercise_MD
+# Bioinformatics git exercise 1
 
 ## Purpose
 
